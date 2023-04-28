@@ -1,6 +1,6 @@
 # Club Website
 
-This is the official website for The Wall Street CLub @ BITS Pilani Dubai Campus. The website is built by Ansh Choudhary using HTML and CSS and is designed to provide information about our club and its activities to our members and the wider community.
+This is the official website for The Wall Street Club @ BITS Pilani Dubai Campus. The website is built by Ansh Choudhary using HTML and CSS and is designed to provide information about our club and its activities to our members and the wider community.
 
 ## Features
 
